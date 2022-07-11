@@ -10,6 +10,6 @@
 
     const seePlanets = await Planet.findByPk(1);
 
-    console.log(seePlanets)
+    console.log(seePlanets);
 
 })();
