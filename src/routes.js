@@ -14,3 +14,5 @@ routes.post('/planets/:planetId/satelites', SateliteController.store);
 routes.get('/planets/:planetId/satelites', SateliteController.index);
 
 module.exports = routes
+
+//
